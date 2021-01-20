@@ -1,15 +1,16 @@
 # crm_system
 Small crm system with crud for making orders.
 
-Functionalities:
+Functionalities:<hr>
 
--create/update customer
--create/delete/update order
--show products
--show 5 last orders
--show customer details (email, phone, placed orders)
--filter orders by product, status, note, date from/to
--on dashboard show total orders, orders delivered, orders pending
+-create/update customer<br>
+-create/delete/update order<br>
+-show products<br>
+-show 5 last orders<br>
+-show customer details (email, phone, placed orders)<br>
+-filter orders by product, status, note, date from/to<br>
+-on dashboard show total orders, orders delivered, orders pending<br>
+<br>
 
 
 Check wiki to see details.
